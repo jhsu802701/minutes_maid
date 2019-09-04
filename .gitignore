@@ -32,3 +32,7 @@ coverage
 /config/master.key
 
 notes.txt
+
+.DS_Store
+
+.env
